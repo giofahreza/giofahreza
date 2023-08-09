@@ -44,21 +44,15 @@ I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnolog
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giofahreza" alt="giofahreza" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=giofahreza&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/giofahreza">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact&card_width=495" />
 
-<a href="https://github.com/giofahreza">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=giofahreza&show_icons=true&rank_icon=github&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Giofahreza's GitHub Stats" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=giofahreza&show_icons=true&rank_icon=github&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&card_width=495" alt="Giofahreza's GitHub Stats" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giofahreza&theme=dark" alt="giofahreza" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giofahreza&" alt="giofahreza" /></p>
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giofahreza)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giofahreza&bg_color=1e1e1e)
 
 <br>
 <br>
