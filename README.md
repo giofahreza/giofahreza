@@ -47,7 +47,7 @@ I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnolog
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giofahreza" alt="giofahreza" /></a> </p>
 
 <a href="https://github.com/giofahreza">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" />
 </a>
 
 <a href="https://github.com/giofahreza">
@@ -55,7 +55,6 @@ I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnolog
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giofahreza&show_icons=true&locale=en&layout=compact" alt="giofahreza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giofahreza&" alt="giofahreza" /></p>
 
