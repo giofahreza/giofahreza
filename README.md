@@ -47,7 +47,7 @@ I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnolog
 
 ## &#x1f4c8; GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=giofahreza&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=giofahreza&theme=onedark&row=1](https://github-profile-trophy.vercel.app/?username=giofahreza&theme=onedark&row=1&title=MultiLanguage,Commits,Experience,Repositories))](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact&card_width=495" />
 
