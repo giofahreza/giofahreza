@@ -19,13 +19,7 @@ Here are some ideas to get you started:
 
 # Hello, everyone! <img src="assets/wave.gif" width="35px" height= "35px">
 
-I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnologies topics.
-
-- 🔭 I’m currently working on Finance Technology Company as Backend Developer.
-- 🌱 I’m currently learn to mastering Go Language
-- 👯 I’m looking to collaborate on open source projects related to Go and Python languages
-- 🤔 I’m looking for help with Go or Python projects to improve skills
-- ⚡ Fun fact: I love hiking so much!!
+If you interested to talk or discuss anything with me, feel free to contact me. You can easily find my contact on <a href="https://giofahreza.com">giofahreza.com</a>
 
 <p align="left">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=giofahreza&label=Profile%20views&color=0e75b6&style=flat" alt="giofahreza" /> </p>
@@ -33,13 +27,6 @@ I’m Giofahreza a Backend Engineer, creative coder and appasionate for tecnolog
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/giofahreza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/giofahreza?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/giofahreza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/giofahrezax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giofahrezax" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/giofahreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giofahreza" height="30" width="40" /></a>
-    <a href="https://fb.com/giofahrezax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giofahrezax" height="30" width="40" /></a>
-    <a href="https://instagram.com/giofahrezax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giofahrezax" height="30" width="40" /></a>
 </p>
 
 <br>
