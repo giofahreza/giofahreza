@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hello, everyone! <img src="assets/wave.gif" width="35px" height= "35px">
 
-If you interested to talk or discuss anything with me, feel free to contact me. You can easily find my contact on <a href="https://giofahreza.com">giofahreza.com</a>
+If you interested to know more or discuss anything with me, feel free to contact me. You can easily find my contact on <a href="https://giofahreza.com">giofahreza.com</a>
 
 <p align="left">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=giofahreza&label=Profile%20views&color=0e75b6&style=flat" alt="giofahreza" /> </p>
