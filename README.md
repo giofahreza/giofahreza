@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 
 
 # Hello, everyone! <img src="assets/wave.gif" width="35px" height= "35px">
-
 If you interested to know more or discuss anything with me, feel free to contact me. You can easily find my contact on <a href="https://giofahreza.com">giofahreza.com</a>
 
 <p align="left">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=giofahreza&label=Profile%20views&color=0e75b6&style=flat" alt="giofahreza" /> </p>
+    <!---
     <a href="https://github.com/giofahreza?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/giofahreza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/giofahreza?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/giofahreza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    --->
 </p>
 
 <br>
@@ -37,11 +38,11 @@ If you interested to know more or discuss anything with me, feel free to contact
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giofahreza&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact&card_width=495" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=giofahreza&show_icons=true&rank_icon=github&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&card_width=495" alt="Giofahreza's GitHub Stats" />
+<!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=giofahreza&show_icons=true&rank_icon=github&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&card_width=495" alt="Giofahreza's GitHub Stats" />--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giofahreza&theme=dark" alt="giofahreza" /></p>
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giofahreza&bg_color=1e1e1e)
+<!---![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giofahreza&bg_color=1e1e1e)--->
 
 <br>
 <br>
